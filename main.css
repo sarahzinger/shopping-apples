@@ -1,0 +1,54 @@
+body{
+	background-image: url("http://upload.wikimedia.org/wikipedia/commons/7/71/PinkLadyApples.JPG");
+	background-size: 100%;
+
+}
+.title{
+	font-family: Helvetica;
+	margin-left: 30%;
+	background-color: #F5DAD1;
+	margin-right: 30%;
+	text-align: center;
+	margin-top: 10px;
+	font-size: 250%;
+	padding:10px;
+}
+.subtitle{
+	font-family: Helvetica;
+	margin-left: 30%;
+	background-color: #D5F5D1;
+	margin-right: 30%;
+	text-align: center;
+	margin-top: 10px;
+	font-size: 120%;
+	padding:10px;
+}
+.dontforget{
+	width: 39.5%;
+	margin-left: 30%;
+	margin-right:30%;
+	margin-top: 10px;
+	height: 30px;
+	font-size: 140%;
+}
+.checklist{
+	width: 40%;
+	margin-left: 30%;
+	margin-right:30%;
+	margin-top: 10px;
+
+}
+li{
+	font-size: 140%;
+	border-radius: 5px;
+	margin: 4px;
+	padding: 3px;
+	background-color: #D5F5D1;
+}
+.cross{
+	text-decoration: line-through;
+	background-color: #F5DAD1;
+}
+.uncross{
+	background-color: #D5F5D1;
+}
