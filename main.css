@@ -12,6 +12,7 @@ body{
 	margin-top: 10px;
 	font-size: 250%;
 	padding:10px;
+	border-radius: 5px;
 }
 .subtitle{
 	font-family: Helvetica;
@@ -22,6 +23,7 @@ body{
 	margin-top: 10px;
 	font-size: 120%;
 	padding:10px;
+	border-radius: 5px;
 }
 .dontforget{
 	width: 39.5%;
@@ -48,7 +50,4 @@ li{
 .cross{
 	text-decoration: line-through;
 	background-color: #F5DAD1;
-}
-.uncross{
-	background-color: #D5F5D1;
 }
